@@ -3,6 +3,7 @@ package com.cmcc.gs.service.impl;
 import com.alibaba.fastjson.JSONObject;
 import com.cmcc.gs.service.PostService;
 
+import java.io.DataOutputStream;
 import java.net.HttpURLConnection;
 import java.net.ProtocolException;
 import java.net.URL;
